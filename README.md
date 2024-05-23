@@ -1,1 +1,0 @@
-# ritcheyandai_get_byte_from_string_i1
